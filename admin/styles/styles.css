@@ -1,0 +1,290 @@
+.banner{
+	height: 90px;
+	width: auto;
+}
+body{
+	font-family: sans-serif;
+}
+a.active{
+	background: red;
+	padding: 10px;
+}
+.placeholder{
+	padding: 20px;
+}
+.display{
+	width: 900px;
+	height: 250px;
+	overflow: auto;
+}
+#himage{
+	width: 300px;
+	float: left;
+}
+#menus{
+	width: 800px;
+	float: right;
+	padding: 20px;
+	text-align: right;
+}
+.msg{
+	width: auto;
+	height: auto;
+	font-size: 1.2em;
+}
+.droit{
+	width: 630px;
+	height: auto;
+	float: right;
+	font-size: 0.8em;
+	font-weight: bolder;
+	font-family: tahoma;
+	margin: 20px 0 0 0;
+	/*border: 1px solid #000;*/
+}
+li{
+	list-style: none;
+	display: inline;
+	margin: 0 10px 0 0;
+} 
+li:hover{
+	border-bottom: 2px solid #ff1212;
+	padding-bottom: 5px;
+}
+a.hover{
+	text-decoration: none;
+}
+h3{
+	font-family: tahoma;
+	margin: 20px;
+}
+.advert{
+	background: url(../images/header.png);
+	height: 70px;
+	width: auto;
+}
+.wiping{
+	width: auto;
+	text-align: center;
+	padding: 10px 25px 10px 25px;
+	display: inline-block;
+}
+.sap{
+	display: inline-block;
+}
+.hfirst{
+	width: 568px;
+	height: 400px;
+	display: inline-block;
+	margin: 10px 0 10px 0;
+	padding: 10px;
+	text-align: center;
+}
+.adv{
+	width: auto;
+	height: auto;
+	margin: 20px 0 20px 0;
+	padding: 5px;
+}
+.disply{
+	width: auto;
+	height: 250px;
+	margin: 10px 0 0 0;
+}
+.holdn{
+	width: 750px;
+	border-top: 1px solid #ccc;
+	padding: 20px;
+	float: left;
+}
+.newsflash{
+	width: 350px;
+	border: 1px solid #aaa;
+	padding: 10px;
+	float: right;
+	height: 220px;
+}
+img.ca{
+	width: 280px;
+}
+div.txt2{
+	color: #000000;
+	float: right;
+	width: 800px;
+	text-align: center;
+}
+input.subm{
+	padding: 10px;
+	background: #ff1212;
+	width: 100px;
+}
+input,select{
+	padding: 10px;
+	width: 200px;
+}
+label{
+	width: 200px;
+	margin: 20px 0 0 0;
+	padding: 20px;
+}
+div.log{
+	margin: auto;
+	width: 500px;
+	padding: 20px;
+}
+span.wen{
+	padding: 20px;
+	font-size: 1.2em;
+}
+img.edit{
+	width: 100px;
+	height: 70px;
+}
+.message{
+	position: fixed;
+	bottom: 50px;
+	padding: 20px;
+	background: #ff1212;
+	color: #ffffff;
+	opacity: 0.7;
+	font-weight: bold;
+	border-radius: 20px 20px 20px 20px;
+}
+.vst{
+	float: right;
+	width: 700px;
+	height: 1080px;
+	overflow: auto;
+	padding: 10px;
+	border: 1px solid #000;
+	margin: 20px 0 30px 0;
+	color: #ff1212;
+	font-size: 1.2em;
+}
+.far{
+	width: auto;
+	height: 200px;
+	border: 1px solid #000000;
+}
+hr{
+	margin: 5px;
+}
+h6{
+	font-size: 0.1em;
+}
+input.sml{
+	width: 30px;
+}
+.stf{
+	float: left;
+	width: 450px;
+	height: auto;
+	padding: 10px;
+	border: 1px solid #000;
+	margin: 20px 0 0 0;
+	font-size: 1.2em;
+}
+.stf2{
+	float: left;
+	width: 530px;
+	height: auto;
+	padding: 10px;
+	/*border: 1px solid #000;*/
+	margin: 20px 0 0 0;
+	font-size: 1.2em;
+}
+.report{
+	clear: left;
+	width: 450px;
+	height: 400px;
+	margin: 20px 0 0 0;
+	font-size: 1.2em;
+}
+#hol{
+	width: 400px;
+	height: 250px;
+	overflow: auto;
+}
+table.new{
+	border: 1px solid #cccccc;
+	margin: 10px 0 0 0;
+	width: 400px;
+}
+table.newa{
+	width: 670px;
+	border: 1px solid #cccccc;
+	margin: 10px 0 0 0;
+}
+tr.naa{
+	padding: 5px;
+	border: 1px solid #000;
+	background: #ff1212;
+	color: #ffffff;
+}
+tr.na{
+	padding: 5px;
+	border: 1px solid #000;
+	background: #3333f3;
+	color: #ffffff;
+}
+td.gaa{
+	border: 1px solid #cccccc;
+	padding: 5px;
+}
+td.ga{
+	border: 1px solid #cccccc;
+	padding: 5px;
+}
+th.lea{
+	border: 1px solid #cccccc;
+	padding: 5px;
+	color: #ffffff;
+	background: #a40b1e;
+}
+th.le{
+	border: 1px solid #cccccc;
+	padding: 5px;
+	color: #ffffff;
+	background: darkblue;
+}
+h2.lead2{
+	color: #ffffff;
+	font-size: 1.5em;
+	padding: 10px;
+	text-align: right;
+}
+.foot{
+	width: auto;
+	height: auto;
+	background: url(../images/121.png);
+}
+#copy{
+	width: auto;
+	background: #1c3061;
+	padding: 20px;
+	color: #00c9fb;
+}
+.end{
+	width: 280px;
+	display: inline-block;
+	float: left;
+	color: #ffffff;
+	padding: 10px;
+}
+img.small{
+	width: 74px;
+	height: 70px;
+	margin: 5px;
+}
+.wrap{
+	width: 700px;
+	height: auto;
+	margin: 20px auto 0 auto;
+	padding: 20px;
+	border: 1px solid red;
+}
+img.passport{
+	width: 180px;
+	height: 180px;
+	float: right;
+}
